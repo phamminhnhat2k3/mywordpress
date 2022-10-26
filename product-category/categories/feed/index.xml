@@ -11,10 +11,10 @@
 	>
 
 <channel>
-	<title>Bikes &#8211; My WordPress</title>
+	<title>Bikes</title>
 	<atom:link href="http://localhost/myproject/wordpress/product-category/categories/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamminhnhat2k3.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description></description>
 	<lastBuildDate>Wed, 19 Oct 2022 01:07:31 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>

@@ -11,11 +11,11 @@
 	>
 
 <channel>
-	<title>phamminhnhat &#8211; My WordPress</title>
+	<title>phamminhnhat</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/phamminhnhat/feed/" rel="self" type="application/rss+xml" />
 	<link>https://phamminhnhat2k3.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 19 Oct 2022 03:11:39 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Tue, 25 Oct 2022 07:47:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -23,6 +23,24 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
+		<title>Elementor #852</title>
+		<link>https://phamminhnhat2k3.github.io/mywordpress/elementor-852/</link>
+					<comments>https://phamminhnhat2k3.github.io/mywordpress/elementor-852/#respond</comments>
+		
+		<dc:creator><![CDATA[phamminhnhat]]></dc:creator>
+		<pubDate>Tue, 25 Oct 2022 07:46:20 +0000</pubDate>
+				<category><![CDATA[Chưa phân loại]]></category>
+		<guid isPermaLink="false">https://phamminhnhat2k3.github.io/mywordpress/?p=852</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://phamminhnhat2k3.github.io/mywordpress/elementor-852/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Top 6 mẫu xe đạp the thao người lớn thịnh hành</title>
 		<link>https://phamminhnhat2k3.github.io/mywordpress/top-6-xe-dap-the-thao-nguoi-lon/</link>
 					<comments>https://phamminhnhat2k3.github.io/mywordpress/top-6-xe-dap-the-thao-nguoi-lon/#respond</comments>
